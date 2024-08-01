@@ -4,17 +4,18 @@ body {
     margin: 9px
 }
 
-header{
+header {
     color: coral;
     border-bottom: solid 3px burlywood;
     margin-right: 600px;
     padding-left: 20px;
     padding-top: 10px;
+    font-family: "Oswald", sans-serif;
     font-size: 27px;
 }
 
-section{
-    background:rgb(250 228 241);
+section {
+    background: rgb(229 159 201);
     margin: 20px;
     padding-left: 10px;
     padding-right: 10px;
@@ -22,8 +23,17 @@ section{
     padding-bottom: 30px;
     display: flex;
     justify-content: center;
+    font-family: "Cairo", sans-serif;
 }
 
-.chamada-texto{
-margin-right: 2%;
+.chamada-texto {
+    margin-right: 2%;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 15px;
 }
