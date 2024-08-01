@@ -6,7 +6,8 @@ body {
 
 header{
     color: coral;
-    border-bottom: solid 1px burlywood;
+    border-bottom: solid 3px burlywood;
+    margin-right: 120px;
     padding-left: 20px;
     padding-top: 10px;
     font-size: 27px;
