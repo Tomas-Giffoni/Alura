@@ -1,4 +1,12 @@
 body {
     color: crimson;
     background: black;
+    margin: 8px
+}
+
+header{
+    border-bottom: solid 1px plum;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: 27px;
 }
