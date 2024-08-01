@@ -1,10 +1,11 @@
 body {
-    color: crimson;
-    background: black;
+    color: aquamarine;
+    background: burlywood;
     margin: 8px
 }
 
 header{
+    color: coral;
     border-bottom: solid 1px plum;
     padding-left: 20px;
     padding-top: 10px;
