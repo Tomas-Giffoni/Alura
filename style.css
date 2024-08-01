@@ -1,12 +1,12 @@
 body {
     color: aquamarine;
-    background: burlywood;
+    background: plum;
     margin: 8px
 }
 
 header{
     color: coral;
-    border-bottom: solid 1px plum;
+    border-bottom: solid 1px burlywood;
     padding-left: 20px;
     padding-top: 10px;
     font-size: 27px;
