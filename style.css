@@ -41,3 +41,9 @@ p {
 img {
     height: 200px;
 }
+
+.videos-haha {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
