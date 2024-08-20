@@ -52,3 +52,7 @@ img {
     overflow-x: auto;
     gap: 20px;
 }
+
+h2 {
+    margin-right: 2%;
+}
