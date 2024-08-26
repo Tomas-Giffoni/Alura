@@ -56,10 +56,20 @@ img {
 
 .haha {
     color:brown;
+    margin-right: 2%;
 }
 
 .videos-haha {
     display: flex;
     overflow-x: auto;
     gap: 20px;
+}
+
+.videos-haha img {
+    opacity: 0.6;
+}
+
+.videos-haha img:hover {
+    opacity: 1.0;
+    border: 2px solid goldenrod;
 }
