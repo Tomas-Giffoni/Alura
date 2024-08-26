@@ -73,3 +73,20 @@ img {
     opacity: 1.0;
     border: 2px solid goldenrod;
 }
+
+.chico {
+    opacity: 0.1;
+    background: rgb(219, 171, 200);
+    margin: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    font-family: "Cairo", sans-serif;
+}
+
+.chico:hover {
+    opacity: 1.0;
+}
