@@ -14,7 +14,7 @@ header {
     font-size: 27px;
 }
 
-section {
+.chamada {
     background: rgb(219, 171, 200);
     margin: 20px;
     padding-left: 10px;
@@ -52,6 +52,10 @@ img {
 
 .title2 {
     margin-right: 2%;
+}
+
+.haha {
+    color:brown;
 }
 
 .videos-haha {
